@@ -1,7 +1,5 @@
 const path = require('path');
 
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-
 const { VueLoaderPlugin } = require('vue-loader');
 
 const config = {
