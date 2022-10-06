@@ -16,13 +16,11 @@
     "url": "https://github.com/apostrophecms/vue2and3-dependency/issues"
   },
   "homepage": "https://github.com/apostrophecms/vue2and3-dependency#readme",
-  "devDependencies": {
+  "dependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
     "vue": "^2.7.10",
     "vue-loader": "^15.10.0",
     "vue-template-compiler": "^2.7.10"
-  },
-  "dependencies": {
-    "webpack": "^5.74.0",
-    "webpack-cli": "^4.10.0"
   }
 }
